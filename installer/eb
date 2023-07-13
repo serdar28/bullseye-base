@@ -16,7 +16,7 @@ export RELEASE="bullseye"
 
 export BASE_INSTALLER=eb-base
 export BASE_CONFIG="${BASE_INSTALLER}.conf"
-export BASE_REPO="https://github.com/serdar28/emrah-bullseye-base.git"
+export BASE_REPO="https://github.com/serdar28/bullseye-base.git"
 export BASE_BRANCH="main"
 export BASE_TMP_DIR="eb-base-tmp"
 
